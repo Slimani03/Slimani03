@@ -1,4 +1,4 @@
-[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-be73522246.gif)](https://rishavchanda.io)
+[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-be73522246.gif)]()
 <h1 align="center">Hi 👋, I'm Fares Slimani</h1>
 <h3 align="center">A passionate full stack developer from Sweden</h3>
 
