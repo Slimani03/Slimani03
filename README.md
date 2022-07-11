@@ -14,13 +14,13 @@
 
 - 📫 How to reach me **f.20030315@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/fares-slimani-20030315)
+- 📄 Know about my experiences [linkedin.com/in/fares-slimani-20030315](https://www.linkedin.com/in/fares-slimani-20030315/)
 
 - ⚡ Fun fact **I ran a half marathon 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/fares-slimani-20030315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fares-slimani-20030315" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fares-slimani-20030315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fares-slimani-20030315/" height="30" width="40" /></a>
 <a href="https://instagram.com/_fares.slimani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fares.slimani" height="30" width="40" /></a>
 <a href="https://discord.gg/Void.#0338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Void.#0338" height="30" width="40" /></a>
 </p>
