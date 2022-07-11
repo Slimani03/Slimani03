@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fares-slimani-20030315](https://www.linkedin.com/in/fares-slimani-20030315)
 
-- ⚡ Fun fact **i ran a half marathon 2022**
+- ⚡ Fun fact **I ran a half marathon 2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
