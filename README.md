@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fares Slimani</h1>
 <h3 align="center">A passionate full stack developer from Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slimani03&label=Profile%20views&color=0e75b6&style=flat" alt="slimani03" /> </p>
+<p align="left" </p>
 
 - 🔭 I’m currently working on **the fundamental basic tech skills**
 
