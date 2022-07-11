@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/35/1f/17/351f171a117d6e978db0b6a5fd69993d.gif)](https://rishavchanda.io)
+[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-be73522246.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fares Slimani</h1>
 <h3 align="center">A passionate full stack developer from Sweden</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d0/fe/e4/d0fee4efd20303b651fb1dd6dfff73b7.gif"
