@@ -1,4 +1,4 @@
-[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-be73522246.gif)]()
+[![MasterHead](https://forum-cdn.zaros.io/monthly_2021_02/Re7244a8c2d4385ccbe6e7cf8436433c3.gif.1850e856aa59c039cbf00fcf1df13706.gif)]()
 <h1 align="center">Hi 👋, I'm Fares Slimani</h1>
 <h3 align="center">A passionate full stack developer from Sweden</h3>
 
